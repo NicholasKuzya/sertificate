@@ -1,0 +1,17 @@
+$Robik-light: 'Robik-light';
+$Robik-regular: 'Robik-regular';
+$Robik-medium: 'Robik-medium';
+$Robik-bold: 'Robik-bold';
+
+.icon {
+	&__discount {
+		width: 16px;
+		height: 16px;
+		fill: #000;
+	}
+	&__star {
+		width: 16px;
+		height: 16px;
+		fill: #000;
+	}
+}
